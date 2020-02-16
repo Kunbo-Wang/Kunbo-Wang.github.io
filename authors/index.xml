@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Adventures of Statistics Wonderland</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an assistant professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University and an adjunct assistant professor in the Devision of Biostatistics and Bioinformatics at The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins School of Medicine.&lt;/p&gt;
+&lt;p&gt;I was a Postdoctoral Fellow working with Peter Müller in Department of Statistics and Data Sciences at The University of Texas at Austin.&lt;/p&gt;
+&lt;p&gt;I received my Ph.D. from Department of Statistics at Rice University. My Ph.D advisor was Yuan Ji.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
