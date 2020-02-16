@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/research/</loc>
+    <loc>/MyBlog/research/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/</loc>
+    <loc>/MyBlog/teaching/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/MyBlog/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>/MyBlog/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
+    <loc>/MyBlog/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/MyBlog/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/MyBlog/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/MyBlog/categories/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/MyBlog/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/MyBlog/tags/</loc>
   </url>
   
 </urlset>
