@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Adventures of Statistics Wonderland</title>
+    <title>Authors | Find something interesting about me</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,9 +17,14 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am an assistant professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University and an adjunct assistant professor in the Devision of Biostatistics and Bioinformatics at The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins School of Medicine.&lt;/p&gt;
-&lt;p&gt;I was a Postdoctoral Fellow working with Peter Müller in Department of Statistics and Data Sciences at The University of Texas at Austin.&lt;/p&gt;
-&lt;p&gt;I received my Ph.D. from Department of Statistics at Rice University. My Ph.D advisor was Yuan Ji.&lt;/p&gt;
+      <description>&lt;p&gt;I am a current Ph.D. candidate majoring in Applied Mathematics and
+Statistics at Johns Hopkins University. Before that, I received my master’s degree in financial
+mathematics from Johns Hopkins.&lt;/p&gt;
+&lt;p&gt;I have rich research experience in Bayesian statistics, teaching experience in machine learning field,
+and skills in managing large data. Besides these, I have rish experience in quantitative finance field.&lt;/p&gt;
+&lt;p&gt;I am looking for internship opportunities for summer and winter. Please feel free to 
+&lt;a href=&#34;%22#contact%22&#34;&gt;contact me&lt;/a&gt;
+ if you are interested in talking more details about me.&lt;/p&gt;
 </description>
     </item>
     
